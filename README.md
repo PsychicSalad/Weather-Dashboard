@@ -21,7 +21,13 @@ Entering the name of a city and pressing the search button should mean the appli
 
 To visit the deployed applciation, please visit the following link:
 
+Deployed link:
+https://psychicsalad.github.io/Weather-Dashboard
+
 To visit the github repository for this project, please visit the following link:
+
+Github Repository:
+
 https://github.com/PsychicSalad/Weather-Dashboard
 
 ## License
